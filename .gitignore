@@ -1,0 +1,12 @@
+node_modules
+
+
+# hardhat files
+artifacts
+cache
+
+# env file
+.env
+
+# yarn lock
+yarn.lock
